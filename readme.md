@@ -1,6 +1,6 @@
 # Identification of Human CYP450 Inhibition Using Multitask Convolutional Neural Networks
 
-#### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen,y P-U. Nguyen-Hoang, T-N. Nguyen, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
+#### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, T-N. Nguyen, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 
 ![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/FP2VEC_DILI-Graphical_abstract.jpg)
@@ -22,5 +22,5 @@ utilization of connective relations among related tasks improved the performance
 Additionally, the combination of multitask learning and connection-based features came up with outstanding 
 results for the five tasks with all ROC-AUC and PR-AUC values of higher than 0.90.
 
-**Availability and implementation** Source code and data are available on [GitHub](https://github.com/mldlproject/2020-DILI-CNN-MFE)
+**Availability and implementation** Source code and data are available on [GitHub](https://github.com/mldlproject/2020-CYP450-mCNN)
 

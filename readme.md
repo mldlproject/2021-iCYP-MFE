@@ -3,7 +3,7 @@
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, T-N. Nguyen, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 
-![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/FP2VEC_DILI-Graphical_abstract.jpg)
+![alt text](https://github.com/mldlproject/2020-CYP450-mCNN/blob/main/CYP450_abs.svg)
 
 **Motivation**: Human cytochrome P450 (CYP) superfamily holds responsibilities for the metabolism
 of both endogenous and exogenous compounds such as drugs, cellular metabolites, and toxins. Inhibition 

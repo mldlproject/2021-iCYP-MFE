@@ -1,4 +1,4 @@
-# Identification of Human CYP450 Inhibition Using Multitask CNNs
+# iCYP-MFE: Indentifying Human Cytochrome P450 Inhibitors using Multi-task Learning and Molecular Fingerprint-embedded Encoding
 
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, T-N. Nguyen, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
@@ -26,6 +26,9 @@ results for the five tasks with all ROC-AUC and PR-AUC values of higher than 0.9
 
 ## Availability and implementation
 Source code and data are available on [GitHub](https://github.com/mldlproject/2020-CYP450-mCNN)
+
+## Web-based Application
+[Click here]
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)

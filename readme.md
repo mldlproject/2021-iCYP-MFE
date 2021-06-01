@@ -23,7 +23,7 @@ from related tasks to promote global performance. In comparison with several
 state-of-the-art methods, our proposed method is outperforming in all tasks with the
 highest area under the receiver operating characteristic (ROC) curve (ROC-AUC) of
 0.93 and area under the precision-recall (PR) curve (PR-AUC) of 0.92. The evaluated
-performance once confirms our model’s robustness, stability, and efficiency
+performance once confirms our model’s robustness, stability, and efficiency.
 
 
 ## Availability and implementation

@@ -27,7 +27,7 @@ performance once confirms our model’s robustness, stability, and efficiency
 
 
 ## Availability and implementation
-Source code and data are available on [GitHub](https://github.com/mldlproject/2020-CYP450-mCNN)
+Source code and data are available upon request. 
 
 ## Web-based Application
 [Click here]

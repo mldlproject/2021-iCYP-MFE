@@ -30,7 +30,7 @@ performance once confirms our model’s robustness, stability, and efficiency.
 Source code and data are available upon request. 
 
 ## Web-based Application
-[Click here](http://124.197.33.59:7007/)
+[Click here](http://ec2-3-26-18-208.ap-southeast-2.compute.amazonaws.com:8888/)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)

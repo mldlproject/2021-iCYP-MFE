@@ -2,7 +2,7 @@
 
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, T-N. Nguyen, D. T. Nguyen, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗ and [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗
 
-![alt text](https://github.com/mldlproject/2020-CYP450-mCNN/blob/main/CYP450_abs.svg)
+![alt text](https://github.com/mldlproject/2020-CYP450-mCNN/blob/main/CYP450_abs0.svg)
 
 ## Motivation
 The human cytochrome P450 (CYP) superfamily holds responsibilities for the

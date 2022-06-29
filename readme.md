@@ -20,7 +20,7 @@ The results show that multitask learning can remarkably leverage useful informat
 Source code and data are available on [GitHub](https://github.com/mldlproject/2021-iCYP-MFE)
 
 ## Web-based Application
-[Click here](http://103.130.219.193:5002/)
+[Click here](http://192.168.1.19:8002/)
 
 ## Citation
 Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Phuong-Uyen Nguyen-Hoang, Thien-Ngan Nguyen, Dung T. Nguyen, Binh P. Nguyen, and Ly Le. iCYP-MFE: Identifying Human Cytochrome P450 Inhibitors Using Multitask Learning and Molecular Fingerprint-Embedded Encoding. *Journal of Chemical Information and Modeling* (2021). [DOI: 10.1021/acs.jcim.1c00628](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00628).

@@ -21,7 +21,7 @@ Source code and data are available on [GitHub](https://github.com/mldlproject/20
 - Source 2: [Click here](http://14.177.208.167:8003/)
 
 ## Citation
-Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Phuong-Uyen Nguyen-Hoang, Thien-Ngan Nguyen, Dung T. Nguyen, Binh P. Nguyen, and Ly Le. iCYP-MFE: Identifying Human Cytochrome P450 Inhibitors Using Multitask Learning and Molecular Fingerprint-Embedded Encoding. *Journal of Chemical Information and Modeling* (2021). [DOI: 10.1021/acs.jcim.1c00628](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00628).
+Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Phuong-Uyen Nguyen-Hoang, Thien-Ngan Nguyen, Dung T. Nguyen, Binh P. Nguyen, and Ly Le. iCYP-MFE: Identifying Human Cytochrome P450 Inhibitors Using Multitask Learning and Molecular Fingerprint-Embedded Encoding. *Journal of Chemical Information and Modeling, 62(21), 5059-5068.* (2021). [DOI: 10.1021/acs.jcim.1c00628](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00628).
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
